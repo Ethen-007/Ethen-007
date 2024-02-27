@@ -11,9 +11,9 @@ View the website here - [Tour-and-Travel-App](https://frontend-intermediate-path
 View the [source code]()
 
 ## Skills
-- Programming Languages: Python ,C, Java,Javascript
-- Technologies/Frameworks: Web development, React js,Svelte.
-- Soft Skills: Teamwork, Critical Thinking, Problem Solving.
+- **Programming Languages** : Python ,C, Java,Javascript
+- **Technologies/Frameworks** : Web development, React js,Svelte.
+- **Soft Skills** : Teamwork, Critical Thinking, Problem Solving.
 
 ## Get in Touch
 1. Email-*[ethen.csa2125@saintgits.org](mailto:ethen.csa2125@saintgits.org)*
